@@ -114,7 +114,7 @@ debug.stagefright.omx_default_rank=0
 # Display
 debug.sf.disable_client_composition_cache=1
 debug.sf.latch_unsignaled=0
-debug.hwui.renderer=skiagl
+debug.hwui.renderer=skiavk
 ro.opengles.version=196610
 ro.vendor.display.sensortype=2
 vendor.gralloc.enable_fb_ubwc=1
